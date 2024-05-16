@@ -1,5 +1,7 @@
 # ST-MAGAN_for_location_prediction
-this is code for location prediction with ST-MAGAN
+this is code for location prediction with ST-MAGAN，
+
+Attention: The code and corresponding papers have been upgraded, and the new code will be soon uploaded as it is organized.
 
 # MyModel:
 
